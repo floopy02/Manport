@@ -1,8 +1,6 @@
 <?php
 
-/**
-* 
-*/
+
 class backup_data extends config {
 	private function forLoop($arr){
 		$data = '';
